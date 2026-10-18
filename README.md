@@ -44,7 +44,7 @@ I completed the MSc while finishing the final years of Computer Engineering and 
 
 | Project | Description | Tools |
 |---|---|---|
-| **collision-risk-model** 🔒 | Monte Carlo simulator estimating mid-air collision risk between manned and unmanned aircraft in U-space, with strategic deconfliction, conformance monitoring, stochastic navigation error models and adaptive time stepping. *Private repository, ùblic information and results in https://www.u-agree.eu/resources/.* | C++17, OpenMP, Python |
+| **collision-risk-model** 🔒 | Monte Carlo simulator estimating mid-air collision risk between manned and unmanned aircraft in U-space, with strategic deconfliction, conformance monitoring, stochastic navigation error models and adaptive time stepping. *Private repository, public information and results in https://www.u-agree.eu/resources/.* | C++17, OpenMP, Python |
 | [**ins-gnss-integration**](https://github.com/bran2ff/ins-gnss-integration) | Loosely coupled INS/GNSS fusion with a 9-state error Kalman filter, including accelerometer bias estimation | MATLAB |
 | [**planning-domain-definition-language**](https://github.com/bran2ff/planning-domain-definition-language) | Temporal and numeric planning of airport ground operations (towing, fingers, battery recharging) | PDDL 2.1, LPG-td |
 | [**drone-design**](https://github.com/bran2ff/drone-design) | Full mechanical CAD design of a fixed-wing drone: fuselage, wing structure, propulsion and custom propellers | Autodesk Inventor |
